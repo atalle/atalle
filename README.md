@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi! I'm a Design Lead at IBM Quantum working on [enterprise developer tools](https://quantum.ibm.com/).
 
 <!--
 **atalle/atalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
